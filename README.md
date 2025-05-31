@@ -25,3 +25,11 @@ A mini frontend project built using HTML, CSS, and JavaScript as part of the 50 
 
 6 Scroll Animation ✅Completed
     Preview => https://scroll-animation-fazil.netlify.app/
+
+# Day 4 
+
+7 Split Landing Page ✅Completed
+    Preview => https://split-landing-page-fazil.netlify.app/
+
+8 Form Wave Animation ✅Completed
+    Preview => https://form-wave-animation-fazil.netlify.app/
