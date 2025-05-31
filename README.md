@@ -33,3 +33,14 @@ A mini frontend project built using HTML, CSS, and JavaScript as part of the 50 
 
 8 Form Wave Animation ✅Completed
     Preview => https://form-wave-animation-fazil.netlify.app/
+
+# Day 5
+
+9 Sound Board ✅Completed
+    Preview => https://sound-board-fazil.netlify.app/
+
+10 Dad Jokes ✅Completed
+    Preview => https://dad-jokes-fazil.netlify.app/
+
+11 Event KeyCodes ✅Completed
+    Preview => https://event-keycode-fazil.netlify.app/
