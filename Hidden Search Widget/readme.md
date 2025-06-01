@@ -1,4 +1,4 @@
-Day 2 : -Hidden Search Widget  :-
+Day 2 :-  Hidden Search Widget  :-
 Open Search Bar by toggling search icon
 
 ## What I Learned
