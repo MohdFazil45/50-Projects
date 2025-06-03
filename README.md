@@ -44,3 +44,19 @@ A mini frontend project built using HTML, CSS, and JavaScript as part of the 50 
 
 11 Event KeyCodes ✅Completed
     Preview => https://event-keycode-fazil.netlify.app/
+
+# Day 6
+
+12 FAQ Collapse ✅Completed
+    Preview => https://faq-collapse-fazil.netlify.app/
+
+# Day 7 
+
+13 Animated Navigation ✅Completed
+    Preview => https://animated-navigation-fazil.netlify.app/
+
+14 Incrementing Counter ✅Completed
+    Preview => https://incrementing-counter-fazil.netlify.app/
+
+15 Drink Water ✅Completed
+    Preview => https://drink-water-fazil.netlify.app/
