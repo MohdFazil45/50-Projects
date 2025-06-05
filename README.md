@@ -50,13 +50,36 @@ A mini frontend project built using HTML, CSS, and JavaScript as part of the 50 
 12 FAQ Collapse ✅Completed
     Preview => https://faq-collapse-fazil.netlify.app/
 
+13 Random Choice Picker ✅Completed
+    Preview => https://random-choice-picker-fazil.netlify.app/
+
 # Day 7 
 
-13 Animated Navigation ✅Completed
+14 Animated Navigation ✅Completed
     Preview => https://animated-navigation-fazil.netlify.app/
 
-14 Incrementing Counter ✅Completed
+15 Incrementing Counter ✅Completed
     Preview => https://incrementing-counter-fazil.netlify.app/
 
-15 Drink Water ✅Completed
+16 Drink Water ✅Completed
     Preview => https://drink-water-fazil.netlify.app/
+
+16 Movie App  ❎ Incomplete 
+    API is down
+
+# Day 8 
+
+17 Background Slider ✅Completed
+    Preview => https://background-slider-fazil.netlify.app/
+
+18 Theme Clock ✅Completed
+    Preview => https://theme-clock-fazil.netlify.app/
+
+# Day 9
+
+19 Button Ripple Effect ✅Completed
+    Preview => https://button-ripple-effect-fazil.netlify.app/
+
+20 Drag N Drop ✅Completed
+    Preview => https://drag-n-drop-fazil.netlify.app/
+
