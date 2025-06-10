@@ -1,4 +1,4 @@
-# Content Placeholder
+Day 11 - Content Placeholder
 
 A shimmering content placeholder using CSS to simulate loading text and images.
 
