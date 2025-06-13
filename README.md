@@ -64,22 +64,48 @@ A mini frontend project built using HTML, CSS, and JavaScript as part of the 50 
 16 Drink Water ✅Completed
     Preview => https://drink-water-fazil.netlify.app/
 
-16 Movie App  ❎ Incomplete 
+17 Movie App  ❎ Incomplete 
     API is down
 
 # Day 8 
 
-17 Background Slider ✅Completed
+18 Background Slider ✅Completed
     Preview => https://background-slider-fazil.netlify.app/
 
-18 Theme Clock ✅Completed
+19 Theme Clock ✅Completed
     Preview => https://theme-clock-fazil.netlify.app/
 
 # Day 9
 
-19 Button Ripple Effect ✅Completed
+20 Button Ripple Effect ✅Completed
     Preview => https://button-ripple-effect-fazil.netlify.app/
 
-20 Drag N Drop ✅Completed
+21 Drag N Drop ✅Completed
     Preview => https://drag-n-drop-fazil.netlify.app/
 
+# Day 10 
+
+22 Drawing App ✅Completed
+    Preview => https://drawing-app-fazil.netlify.app/
+
+23 Kinetic CSS Loader ✅Completed
+    Preview => https://kinetic-css-loader-fazil.netlify.app/
+
+# Day 11
+
+24 Sticky Navbar ✅Completed
+    Preview => https://sticky-navbar-fazil.netlify.app/
+
+25 Content Placeholder ✅Completed
+    Preview => https://content-placeholder-fazil.netlify.app/
+
+# Day 12 
+
+26 Toast Notification ✅Completed
+    Preview => https://toast-notification-fazil.netlify.app/
+
+27 Github Profiles ✅Completed
+    Preview => https://github-profiles-fazil.netlify.app/
+
+28 Double Vertical Slider ✅Completed <br>
+    Preview => https://double-vertical-slider-fazil.netlify.app/
