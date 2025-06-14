@@ -114,4 +114,4 @@ A mini frontend project built using HTML, CSS, and JavaScript as part of the 50 
     Preview => https://double-heart-click-fazil.netlify.app/
 
 30 Auto Text Effect ✅Completed <br>
-    Preview => [Live Demo](https://double-vertical-slider-fazil.netlify.app/)
+    Preview => https://auto-text-effect-fazil.netlify.app/
