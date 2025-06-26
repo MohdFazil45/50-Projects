@@ -1,0 +1,2 @@
+Day 15 - Mobile App Navigation
+A clean and interactive mobile app-style navigation menu. This project simulates the behavior of mobile app menus with smooth animations and a toggle button to open or close the navigation.
