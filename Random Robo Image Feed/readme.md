@@ -1,0 +1,2 @@
+Day 18 - Random Robo Image Feed 
+A fun and simple project that displays a grid of random images using public image APIs like Unsplash, LoremFlickr, or Picsum. Images are fetched dynamically using JavaScript and displayed in a responsive layout.
