@@ -110,6 +110,8 @@ A mini frontend project built using HTML, CSS, and JavaScript as part of the 50 
 28 Double Vertical Slider ✅Completed <br>
     Preview => https://double-vertical-slider-fazil.netlify.app/
 
+# Day 13
+
 29 Double Heart Click ✅Completed <br>
     Preview => https://double-heart-click-fazil.netlify.app/
 
